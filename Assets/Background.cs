@@ -6,7 +6,7 @@ public class Background : MonoBehaviour
 {
 
     public float speed;
-    public Transform[] backgrounds;
+    public Transform[] backgrounds; 
 
     float leftPosX = 0f;
     float rightPosX = 10f;
